@@ -1,6 +1,6 @@
 # UofT STA410 (Statistical Computation) Programming Problems
 
-UofT students may access this the collection of programming problems with the [UofT JupyterHub](https://jupyter.utoronto.ca) via
+UofT students may access STA410 programming problems with the [UofT JupyterHub](https://jupyter.utoronto.ca) via
 
 > https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/STA140_HW<#>&branch=master
 > 
@@ -10,7 +10,7 @@ UofT students may access this the collection of programming problems with the [U
 - Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
 - An alternative computing resource that would work without UofT authentication is [google colab](colab.research.google.com).
 
-0. [HW0](https://github.com/pointOfive/STA410_HW) introduces Python and some key topics for numerical compuation 
+0. [HW0](https://github.com/pointOfive/STA410_HW0) introduces Python and some key topics for numerical compuation 
    - Bit representations
    - Pseudorandom integer generation with modulus
    - Reducing error accumulation in floating-point summation
