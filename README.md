@@ -14,5 +14,5 @@ UofT students may access STA410 programming problems with the [UofT JupyterHub](
    - Bit representations
    - Pseudorandom integer generation with modulus
    - Reducing error accumulation in floating-point summation
-   - High precision single pass (online) variance calculations
+   - High precision single pass variance calculations
 1. HW1
