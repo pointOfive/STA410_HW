@@ -8,7 +8,7 @@ UofT students may access STA410 programming problems with the [UofT JupyterHub](
 
 
 - Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
-- An alternative computing resource available without UofT authentication is [google colab](colab.research.google.com).
+- An alternative computing resource available without UofT authentication is [google colab](http://colab.research.google.com).
 
 0. [HW0](https://github.com/pointOfive/STA410_HW0) introduces Python and some key topics for numerical compuation 
    - Bit representations
