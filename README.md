@@ -21,8 +21,9 @@ If for some reason JupyterHub is not loading the repository, you can delete and 
 ## Programming Homework
 
 0. [Assignment 0](https://github.com/pointOfive/sta410hw0#uoft-sta4102102-statistical-computation) introduces Python through the following foundational computational and statistical computation problems:
-  1. Bit string representation of integer value numbers
-  2. Pseudorandom integer generation with modulus
-  3. Floating-point error accumulation reduction
-  4. High precision single pass variance calculations
+
+    1. Bit string representation of integer value numbers
+    2. Pseudorandom integer generation with modulus
+    3. Floating-point error accumulation reduction
+    4. High precision single pass variance calculations
 
