@@ -18,7 +18,7 @@ If for some reason JupyterHub is not loading the repository, you can delete and 
 > From JupyterHub, open a new terminal with `New` > `Terminal` and then use `yes y | rm -r <path to directory to delete>` to a delete the repository directory.
 
 
-## Programming Homework
+## Programming Homework Assignments
 
 0. [Assignment 0](https://github.com/pointOfive/sta410hw0#uoft-sta4102102-statistical-computation) introduces Python through the following foundational computational and statistical computation problems:
 
