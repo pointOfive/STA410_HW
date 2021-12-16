@@ -27,10 +27,10 @@ If for some reason JupyterHub is not loading the repository, you can delete and 
     3. Floating-point error accumulation reduction
     4. High precision single pass variance calculations
 
-1. [Programming Homework Assignment 1](sta410hw1.ipynb) focus on linear algebra computations with numpy
-and addresses the following foundational computational and statistical computation problems:
+1. [Programming Homework Assignment 1](sta410hw1.ipynb) practices linear algebra computations with numpy
+through the following foundational computational and statistical computation problems:
 
-1. The Gram-Schmidt to orthogonalize vectors
-2. Regression fits from a X=QR decomposition
-3. The Cholesky covariance matrix decomposition
-4. Conjugate gradient methods
+    1. The Gram-Schmidt to orthogonalize vectors
+    2. Regression fits from a X=QR decomposition
+    3. The Cholesky covariance matrix decomposition
+    4. Conjugate gradient methods
