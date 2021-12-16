@@ -27,7 +27,7 @@ If for some reason JupyterHub is not loading the repository, you can delete and 
     3. Floating-point error accumulation reduction
     4. High precision single pass variance calculations
 
-1. [Programming Homework Assignment 1](sta410hw1.ipynb) practices linear algebra computations with numpy
+1. [Assignment 1](sta410hw1.ipynb) practices linear algebra computations with numpy
 through the following foundational computational and statistical computation problems:
 
     1. The Gram-Schmidt to orthogonalize vectors
