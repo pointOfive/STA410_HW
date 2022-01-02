@@ -39,7 +39,7 @@ practices linear algebra computations with numpy through the following foundatio
 2. [Assignment 2](https://github.com/pointOfive/sta410hw2#uoft-sta4102102-statistical-computation) 
 explores the quintessential algorithms underlying the computational efficiency of the following standard use cases for function:
 
-1. Interpolation with Lagrange piecewise polynomials
-2. Covolution theorem with the fast Fourier transform
-3. Orthogonal polynomial recurrence formula evaluation
-4. Time-benchmarking commonly used built-in functions
+    1. Interpolation with Lagrange piecewise polynomials
+    2. Covolution theorem with the fast Fourier transform
+    3. Orthogonal polynomial recurrence formula evaluation
+    4. Time-benchmarking commonly used built-in functions
