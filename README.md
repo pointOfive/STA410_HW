@@ -20,17 +20,26 @@ If for some reason JupyterHub is not loading the repository, you can delete and 
 
 ## Programming Homework Assignments
 
-0. [Assignment 0](https://github.com/pointOfive/sta410hw0#uoft-sta4102102-statistical-computation) introduces Python through the following foundational computational and statistical computation problems:
+0. [Assignment 0](https://github.com/pointOfive/sta410hw0#uoft-sta4102102-statistical-computation) 
+introduces Python through the following foundational computational and statistical computation problems:
 
     1. Bit string representation of integer value numbers
     2. Pseudorandom integer generation with modulus
     3. Floating-point error accumulation reduction
     4. High precision single pass variance calculations
 
-1. [Assignment 1](sta410hw1.ipynb) practices linear algebra computations with numpy
-through the following foundational computational and statistical computation problems:
+1. [Assignment 1](https://github.com/pointOfive/sta410hw1#uoft-sta4102102-statistical-computation) 
+practices linear algebra computations with numpy through the following foundational computational and statistical computation problems:
 
     1. The Gram-Schmidt to orthogonalize vectors
     2. Regression fits from a X=QR decomposition
     3. The Cholesky covariance matrix decomposition
     4. Conjugate gradient methods
+
+[Programming Homework Assignment 2](https://github.com/pointOfive/sta410hw2#uoft-sta4102102-statistical-computation) 
+explores the quintessential algorithms underlying the computational efficiency of the following standard use cases for function:
+
+1. Interpolation with Lagrange piecewise polynomials
+2. Covolution theorem with the fast Fourier transform
+3. Orthogonal polynomial recurrence formula evaluation
+4. Time-benchmarking commonly used built-in functions
