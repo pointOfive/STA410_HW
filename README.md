@@ -36,7 +36,7 @@ practices linear algebra computations with numpy through the following foundatio
     3. The Cholesky covariance matrix decomposition
     4. Conjugate gradient methods
 
-[Programming Homework Assignment 2](https://github.com/pointOfive/sta410hw2#uoft-sta4102102-statistical-computation) 
+2. [Assignment 2](https://github.com/pointOfive/sta410hw2#uoft-sta4102102-statistical-computation) 
 explores the quintessential algorithms underlying the computational efficiency of the following standard use cases for function:
 
 1. Interpolation with Lagrange piecewise polynomials
