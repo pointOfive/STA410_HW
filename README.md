@@ -5,13 +5,13 @@
 UofT students may access STA410 programming homework assignment coding problems with the [UofT JupyterHub](https://jupyter.utoronto.ca)
 or [google colab](http://colab.research.google.com) via
 
-> `https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/STA140_HW<#>&branch=master`
+> `https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/STA140_HW<#>&branch=<master|main>`
 > 
 > or
 >
-> `https://colab.research.google.com/github/pointOfive/sta410hw0/blob/master/sta410hw<#>.ipynb`
+> `https://colab.research.google.com/github/pointOfive/sta410hw0/blob/<master|main>/sta410hw<#>.ipynb`
 >
-> where `<#>` above is replaced with the homework assignment number. 
+> where `<#>` above is replaced with the homework assignment number and <master|main> is replaced by `master` for HW0 and HW1 and `main` for all others.
 
 Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
 If for some reason JupyterHub is not loading the repository, you can delete and reload repositories (after downloading and saving what you need).
