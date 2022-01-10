@@ -11,7 +11,7 @@ or [google colab](http://colab.research.google.com) via
 >
 > `https://colab.research.google.com/github/pointOfive/sta410hw0/blob/<master|main>/sta410hw<#>.ipynb`
 >
-> where `<#>` above is replaced with the Programming Portfolio Assignment number and <master|main> is replaced by `master` for HW0 and HW1 and `main` for all others.
+> where `<#>` above is replaced with the Programming Portfolio Assignment number and <master|main> is replaced by `master` for `hw0` and `hw1` and `main` for all others.
 
 Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
 If for some reason JupyterHub is not loading the repository, you can delete and reload repositories (after downloading and saving what you need).
