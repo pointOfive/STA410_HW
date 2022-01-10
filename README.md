@@ -1,5 +1,8 @@
 # UofT STA410/2102 Statistical Computation
 
+## Submitting Programming Portfolio Assignments
+Submit .ipynb to [MarkUs](https://markus-ds.teach.cs.toronto.edu/) before the end of the calendar day (EoD) on the due date.
+
 ## Accessing Programming Portfolio Assignments
 
 UofT students may access STA410 Programming Portfolio Assignment coding problems with the [UofT JupyterHub](https://jupyter.utoronto.ca)
