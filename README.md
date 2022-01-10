@@ -1,8 +1,8 @@
 # UofT STA410/2102 Statistical Computation
 
-## Accessing Programming Homework Assignments
+## Accessing Programming Portfolio Assignments
 
-UofT students may access STA410 programming homework assignment coding problems with the [UofT JupyterHub](https://jupyter.utoronto.ca)
+UofT students may access STA410 Programming Portfolio Assignment coding problems with the [UofT JupyterHub](https://jupyter.utoronto.ca)
 or [google colab](http://colab.research.google.com) via
 
 > `https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/STA140_HW<#>&branch=<master|main>`
@@ -11,14 +11,14 @@ or [google colab](http://colab.research.google.com) via
 >
 > `https://colab.research.google.com/github/pointOfive/sta410hw0/blob/<master|main>/sta410hw<#>.ipynb`
 >
-> where `<#>` above is replaced with the homework assignment number and <master|main> is replaced by `master` for HW0 and HW1 and `main` for all others.
+> where `<#>` above is replaced with the Programming Portfolio Assignment number and <master|main> is replaced by `master` for HW0 and HW1 and `main` for all others.
 
 Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
 If for some reason JupyterHub is not loading the repository, you can delete and reload repositories (after downloading and saving what you need).
 > From JupyterHub, open a new terminal with `New` > `Terminal` and then use `yes y | rm -r <path to directory to delete>` to a delete the repository directory.
 
 
-## Programming Homework Assignments
+## Programming Portfolio Assignments
 
 0. [Assignment 0](https://github.com/pointOfive/sta410hw0#uoft-sta4102102-statistical-computation) 
 introduces Python through the following foundational computational and statistical computation problems:
