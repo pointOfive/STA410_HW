@@ -7,7 +7,7 @@ Submit `.ipynb` file to [MarkUs](https://markus-ds.teach.cs.toronto.edu/) before
 
 UofT students may access STA410 Programming Portfolio Assignment coding problems with UofT Jupyter**Lab** (***DO NOT USE*** UofT Jupyter**Hub**) or [google colab](http://colab.research.google.com) via
 
-> `https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/STA140_HW<#>&branch=<master|main>&urlpath=/lab/tree/sta410hw0`
+> `https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw<#>&branch=<master|main>&urlpath=/lab/tree/sta410hw<#>`
 > 
 > or
 >
