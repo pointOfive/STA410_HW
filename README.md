@@ -5,10 +5,9 @@ Submit `.ipynb` file to [MarkUs](https://markus-ds.teach.cs.toronto.edu/) before
 
 ## Accessing Programming Portfolio Assignments
 
-UofT students may access STA410 Programming Portfolio Assignment coding problems with the [UofT JupyterHub](https://jupyter.utoronto.ca)
-or [google colab](http://colab.research.google.com) via
+UofT students may access STA410 Programming Portfolio Assignment coding problems with UofT Jupyter**Lab** (***DO NOT USE*** UofT Jupyter**Hub**) or [google colab](http://colab.research.google.com) via
 
-> `https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/STA140_HW<#>&branch=<master|main>`
+> `https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/STA140_HW<#>&branch=<master|main>&urlpath=/lab/tree/sta410hw0`
 > 
 > or
 >
@@ -17,9 +16,8 @@ or [google colab](http://colab.research.google.com) via
 > where `<#>` above is replaced with the Programming Portfolio Assignment number and <master|main> is replaced by `master` for `hw0` and `hw1` and `main` for all others.
 
 Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
-If for some reason JupyterHub is not loading the repository, you can delete and reload repositories (after downloading and saving what you need).
-> From JupyterHub, open a new terminal with `New` > `Terminal` and then use `yes y | rm -r <path to directory to delete>` to a delete the repository directory.
-
+If for some reason JupyterLab is not loading the repository, you can delete and reload repositories (after downloading and saving what you need).
+> From JupyterLab or JupyterHub, open a new terminal with `New` > `Terminal` and then use `yes y | rm -r <path to directory to delete>` to a delete the repository directory.
 
 ## Programming Portfolio Assignments
 
