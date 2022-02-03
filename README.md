@@ -17,7 +17,7 @@ UofT students may access STA410 Programming Portfolio Assignment coding problems
 >
 > where `<#>` above is replaced with the Programming Portfolio Assignment number and <master|main> is replaced by `master` for `hw0` and `hw1` and `main` for all others.
 
-## Onboarding Requirements
+### Additional Information and Requirements
 
 Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
 
