@@ -1,13 +1,15 @@
 # UofT STA410/2102 Statistical Computation
 
 ## Submitting Programming Portfolio Assignments
-Submit `.ipynb` file to [MarkUs](https://markus-ds.teach.cs.toronto.edu/) before the end of the calendar day (EoD) on the due date.
+Submit `.ipynb` files on [MarkUs](https://markus-ds.teach.cs.toronto.edu/) before the end of the calendar day (EoD) on the due date.
 
 ## Accessing Programming Portfolio Assignments
 
-UofT students may access STA410 Programming Portfolio Assignment coding problems with UofT Jupyter**Lab** (***DO NOT USE*** UofT Jupyter**Hub**) or [google colab](http://colab.research.google.com) via
+UofT students may access STA410 Programming Portfolio Assignment coding problems with UofT JupyterHub or JupyterLab or [google colab](http://colab.research.google.com) via
 
-> `https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw<#>&branch=<master|main>&urlpath=/lab/tree/sta410hw<#>`
+> [JupyterHub] `https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw<#>&branch=<master|main>`
+>
+> [JupyterLab] `https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw<#>&branch=<master|main>&urlpath=/lab/tree/sta410hw<#>`
 > 
 > or
 >
@@ -16,7 +18,8 @@ UofT students may access STA410 Programming Portfolio Assignment coding problems
 > where `<#>` above is replaced with the Programming Portfolio Assignment number and <master|main> is replaced by `master` for `hw0` and `hw1` and `main` for all others.
 
 Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
-If for some reason JupyterLab is not loading the repository, you can delete and reload repositories (after downloading and saving what you need).
+
+If for some reason JupyterHub/Lab is not loading the repository, you can delete and reload repositories (after downloading and saving what you need).
 > From JupyterLab or JupyterHub, open a new terminal with `New` > `Terminal` and then use `yes y | rm -r <path to directory to delete>` to a delete the repository directory.
 
 ## Programming Portfolio Assignments
@@ -44,3 +47,12 @@ explores the quintessential algorithms underlying the computational efficiency o
     2. Covolution theorem with the fast Fourier transform
     3. Orthogonal polynomial recurrence formula evaluation
     4. Time-benchmarking commonly used built-in functions
+
+3. [Assignment 3](https://github.com/pointOfive/sta410hw3#uoft-sta4102102-statistical-computation) 
+addresses optimization with a particular focus on Newton's Method
+and TensorFlow for Gradient and Hessian (Jacobian) computations.
+
+    1. Root-finding with Newton-Raphson and fixed-point iteration and acceleration
+    2. Iteratively reweighted least squares for fitting logistic regression models
+    3. Nonlinear Gauss-Seidel using TensorFlow for partial derivative calculations 
+    4. Newton's method for arbitrary dimension gradients/Hessians with TensorFlow    
