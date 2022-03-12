@@ -35,7 +35,15 @@ and TensorFlow for Gradient and Hessian (Jacobian) computations.
     2. Iteratively reweighted least squares for fitting logistic regression models
     3. Nonlinear Gauss-Seidel using TensorFlow for partial derivative calculations 
     4. Newton's method for arbitrary dimension gradients/Hessians with TensorFlow    
-    
+
+4. [Programming Portfolio Assignment 4](https://github.com/pointOfive/sta410hw3#uoft-sta4102102-statistical-computation) 
+addresses sampling from statistical distributions using PyMC3, TensorFlow, and classes and custom code.
+
+    1. (Bayesian) probabilistic programming is introduced through the official PyMC3 tutorial
+    2. Adaptive (squeezeed) rejection sampling is introduced through a custom python class
+    3. Hidden Markov models are fit via sequential importance sampling with bootstrap resampling
+    4. Normalizing flow (bijection) generative modeling of arbitrary distributions is demonstrated
+
 ## Submitting Programming Portfolio Assignments
 Submit `.ipynb` files on [MarkUs](https://markus-ds.teach.cs.toronto.edu/) before the end of the calendar day (EoD) on the due date.
 
