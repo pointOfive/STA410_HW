@@ -23,7 +23,7 @@ practices linear algebra computations with numpy through the following foundatio
 explores the quintessential algorithms underlying the computational efficiency of the following standard use cases for function:
 
     1. Interpolation with Lagrange piecewise polynomials
-    2. Covolution theorem with the fast Fourier transform
+    2. Convolution theorem with the fast Fourier transform
     3. Orthogonal polynomial recurrence formula evaluation
     4. Time-benchmarking commonly used built-in functions
 
