@@ -40,7 +40,7 @@ and TensorFlow for Gradient and Hessian (Jacobian) computations.
 addresses sampling from statistical distributions using PyMC3, TensorFlow, and classes and custom code.
 
     1. (Bayesian) probabilistic programming is introduced through the official PyMC3 tutorial
-    2. Adaptive (squeezeed) rejection sampling is introduced through a custom python class
+    2. Adaptive (squeezed) rejection sampling is introduced through a custom python class
     3. Hidden Markov models are fit via sequential importance sampling with bootstrap resampling
     4. Normalizing flow (bijection) generative modeling of arbitrary distributions is demonstrated
 
