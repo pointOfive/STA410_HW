@@ -36,7 +36,7 @@ and TensorFlow for Gradient and Hessian (Jacobian) computations.
     3. Nonlinear Gauss-Seidel using TensorFlow for partial derivative calculations 
     4. Newton's method for arbitrary dimension gradients/Hessians with TensorFlow    
 
-4. [Assignment 4](https://github.com/pointOfive/sta410hw3#uoft-sta4102102-statistical-computation) 
+4. [Assignment 4](https://github.com/pointOfive/sta410hw4#uoft-sta4102102-statistical-computation) 
 addresses sampling from statistical distributions using PyMC3, TensorFlow, and classes and custom code.
 
     1. (Bayesian) probabilistic programming is introduced through the official PyMC3 tutorial
